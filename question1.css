@@ -1,0 +1,15 @@
+body {
+    font-family: Comic Sans MS;
+}
+
+#words, #count {
+    border: 2px solid black;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.word {
+    text-decoration: underline;
+    margin-right: 5px;
+    display: inline-block;
+}
